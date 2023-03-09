@@ -1,0 +1,36 @@
+body{
+background-color: rgb(249,66,0);
+background: linear-gradient(90deg, rgba(249,66,0,1) 19%, rgba(249,142,0,1) 81%);;
+}
+.box2{
+width: 400px;
+box-sizing: border-box;
+padding: 10px 35px;
+background-color: white;
+height: 300px;
+position: relative;
+left: 900px;
+border-top-left-radius:80px ;
+border-bottom-left-radius: 80px;
+
+}
+.box1{
+width: 200px;
+position: relative;
+left: 600px;
+top: 250px;
+}
+button{
+border: white;
+border-radius: 15px;
+width: 75px;
+height: 25px;
+}
+input{
+width: 300px;
+}
+.b1{
+background-color: orange;
+color: white;
+margin-left: 235px;
+}
